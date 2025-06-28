@@ -9,7 +9,7 @@ from aiohttp import ClientSession
 from pathlib import Path
 
 # === НАСТРОЙКИ ===
-TOKEN = "вставь_сюда_свой_токен"
+TOKEN = "7535965441:AAHLs_QtIgv8TYB7z7LGQTFiCSMx1kBaD8o"
 TON_WALLET = "UQAV3W64G7Db8C2jzPtNFAFleUiwS4JGy4-PC36qlpZ_ziSh"
 TON_API_KEY = "AFQZX3V5SD7FNIIAAAABYTAHKIUWZYRRNILLRGA5HPUYMX2QWGBLOKYQS72KKE6XPINAIHY"
 
